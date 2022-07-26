@@ -3,6 +3,10 @@
 
 name: ahmad   
 major: ai  
-gender: male
+gender: male  
+
 
   
+name: yazan   
+major: se  
+gendre: male  
